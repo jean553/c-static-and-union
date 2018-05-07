@@ -3,7 +3,7 @@
 Simple example of `static` functions and `unions`.
 
 * Static functions are only accessible from the current compilation unit,
-* Unions are structures in which on every attribute "points" to the same
+* Unions are structures in which one every attribute refers to the same
 memory location, the union size is equal to the bigger attribute type size.
 
 ## Compile the example
